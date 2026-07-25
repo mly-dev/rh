@@ -1,0 +1,14 @@
+{
+  "type": "FeatureCollection",
+  "note": "Frontières régionales SIMPLIFIÉES ET INDICATIVES, dessinées pour la démonstration (les sources officielles COD-AB/OCHA n'étaient pas accessibles depuis l'environnement de développement). À remplacer par les géométries officielles pour tout usage réel.",
+  "features": [
+    {"type": "Feature", "properties": {"code": "NE-TL", "name": "Tillabéri"}, "geometry": {"type": "Polygon", "coordinates": [[[0.2, 14.99], [0.9, 15.3], [3.0, 15.5], [3.0, 12.6], [2.4, 11.9], [1.5, 12.6], [0.6, 13.7], [0.2, 14.99]]]}},
+    {"type": "Feature", "properties": {"code": "NE-NI", "name": "Niamey"}, "geometry": {"type": "Polygon", "coordinates": [[[2.0, 13.4], [2.25, 13.4], [2.25, 13.65], [2.0, 13.65], [2.0, 13.4]]]}},
+    {"type": "Feature", "properties": {"code": "NE-DS", "name": "Dosso"}, "geometry": {"type": "Polygon", "coordinates": [[[3.0, 14.4], [4.4, 14.0], [4.5, 13.0], [3.6, 11.9], [3.0, 12.6], [3.0, 14.4]]]}},
+    {"type": "Feature", "properties": {"code": "NE-TH", "name": "Tahoua"}, "geometry": {"type": "Polygon", "coordinates": [[[3.0, 15.5], [3.9, 15.75], [6.6, 16.9], [6.9, 14.9], [6.4, 13.75], [4.4, 14.0], [3.0, 14.4], [3.0, 15.5]]]}},
+    {"type": "Feature", "properties": {"code": "NE-MA", "name": "Maradi"}, "geometry": {"type": "Polygon", "coordinates": [[[6.4, 13.75], [6.9, 14.9], [8.2, 15.0], [8.3, 13.2], [7.8, 12.9], [6.9, 13.0], [6.4, 13.75]]]}},
+    {"type": "Feature", "properties": {"code": "NE-ZR", "name": "Zinder"}, "geometry": {"type": "Polygon", "coordinates": [[[8.2, 15.0], [8.5, 16.2], [10.8, 16.0], [11.0, 13.4], [9.6, 12.8], [8.3, 13.2], [8.2, 15.0]]]}},
+    {"type": "Feature", "properties": {"code": "NE-DF", "name": "Diffa"}, "geometry": {"type": "Polygon", "coordinates": [[[10.8, 16.0], [13.0, 17.0], [15.6, 17.0], [15.7, 13.35], [14.6, 13.1], [12.6, 13.3], [11.0, 13.4], [10.8, 16.0]]]}},
+    {"type": "Feature", "properties": {"code": "NE-AG", "name": "Agadez"}, "geometry": {"type": "Polygon", "coordinates": [[[3.9, 15.75], [4.2, 19.1], [11.9, 23.4], [16.0, 23.0], [15.9, 20.0], [15.6, 17.0], [13.0, 17.0], [10.8, 16.0], [8.5, 16.2], [6.6, 16.9], [3.9, 15.75]]]}}
+  ]
+}
