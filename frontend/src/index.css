@@ -1,0 +1,21 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+/* Palette de visualisation (référence validée, mode clair) */
+:root {
+  --surface-1: #fcfcfb;
+  --text-primary: #0b0b0b;
+  --text-secondary: #52514e;
+  --series-1: #2a78d6; /* bleu */
+  --series-2: #eb6834; /* orange */
+  --series-3: #1baf7a; /* aqua */
+  --status-good: #008300;
+  --status-warning: #c98500;
+  --status-critical: #d92d20;
+  --status-neutral: #6b7280;
+}
+
+body {
+  background: #f4f4f2;
+  color: var(--text-primary);
+}
