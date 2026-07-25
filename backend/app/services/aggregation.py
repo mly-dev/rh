@@ -10,7 +10,11 @@ from sqlalchemy import func
 from sqlalchemy.orm import Session
 
 from app.models import AdminZone, Incident, Indicator, Site, Stock
-from app.services.zone_matcher import ZoneMatcher, zone_with_descendants_ids
+from app.services.zone_matcher import (
+    ZoneMatcher,
+    normalize,
+    zone_with_descendants_ids,
+)
 
 
 def _zone_filter(db: Session, query, model, zone_name: str | None):
@@ -57,9 +61,9 @@ def count_sites(
     """Compte les sites (filtres : type, état fonctionnel, zone)."""
     q = db.query(Site)
     if site_type:
-        q = q.filter(Site.site_type.ilike(f"%{site_type.strip().lower()}%"))
+        q = q.filter(Site.site_type.ilike(f"%{normalize(site_type)}%"))
     if status:
-        q = q.filter(Site.status == status.strip().lower())
+        q = q.filter(Site.status == normalize(status))
     q, zone_obj, err = _zone_filter(db, q, Site, zone)
     if err:
         return {"error": err}
@@ -97,7 +101,7 @@ def indicator_series(
         Indicator.unit,
     )
     if name:
-        q = q.filter(Indicator.name.ilike(f"%{name.strip().lower()}%"))
+        q = q.filter(Indicator.name.ilike(f"%{normalize(name)}%"))
     q, zone_obj, err = _zone_filter(db, q, Indicator, zone)
     if err:
         return {"error": err}
@@ -134,7 +138,7 @@ def stock_summary(
     """Totaux et série temporelle des stocks (par ressource)."""
     q = db.query(Stock)
     if resource:
-        q = q.filter(Stock.resource_name.ilike(f"%{resource.strip().lower()}%"))
+        q = q.filter(Stock.resource_name.ilike(f"%{normalize(resource)}%"))
     q, zone_obj, err = _zone_filter(db, q, Stock, zone)
     if err:
         return {"error": err}
@@ -170,7 +174,7 @@ def incidents_summary(
     """Fréquence d'incidents agrégés par zone, type et période."""
     q = db.query(Incident)
     if incident_type:
-        q = q.filter(Incident.incident_type.ilike(f"%{incident_type.strip().lower()}%"))
+        q = q.filter(Incident.incident_type.ilike(f"%{normalize(incident_type)}%"))
     q, zone_obj, err = _zone_filter(db, q, Incident, zone)
     if err:
         return {"error": err}
@@ -235,7 +239,7 @@ def map_stats(db: Session, metric: str, **filters) -> dict:
     if metric == "indicator":
         q = db.query(Indicator.zone_id, func.sum(Indicator.value))
         if filters.get("name"):
-            q = q.filter(Indicator.name.ilike(f"%{filters['name'].strip().lower()}%"))
+            q = q.filter(Indicator.name.ilike(f"%{normalize(filters['name'])}%"))
         q = _period_filter(q, Indicator, filters.get("period_start"),
                            filters.get("period_end"))
         for zid, value in q.group_by(Indicator.zone_id).all():
@@ -244,7 +248,7 @@ def map_stats(db: Session, metric: str, **filters) -> dict:
     elif metric == "stocks":
         q = db.query(Stock.zone_id, func.sum(Stock.quantity))
         if filters.get("resource"):
-            q = q.filter(Stock.resource_name.ilike(f"%{filters['resource'].strip().lower()}%"))
+            q = q.filter(Stock.resource_name.ilike(f"%{normalize(filters['resource'])}%"))
         q = _period_filter(q, Stock, filters.get("period_start"),
                            filters.get("period_end"))
         for zid, value in q.group_by(Stock.zone_id).all():

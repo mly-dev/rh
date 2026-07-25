@@ -6,7 +6,11 @@ from app.core.db import get_db
 from app.models import Incident, Indicator, Site, Stock
 from app.ontology import ENTITIES
 from app.services import aggregation
-from app.services.zone_matcher import ZoneMatcher, zone_with_descendants_ids
+from app.services.zone_matcher import (
+    ZoneMatcher,
+    normalize,
+    zone_with_descendants_ids,
+)
 
 router = APIRouter(prefix="/api", tags=["objets"])
 
@@ -47,7 +51,7 @@ def list_sites(
     if ids is not None:
         q = q.filter(Site.zone_id.in_(ids))
     if site_type:
-        q = q.filter(Site.site_type.ilike(f"%{site_type.lower()}%"))
+        q = q.filter(Site.site_type.ilike(f"%{normalize(site_type)}%"))
     if status:
         q = q.filter(Site.status == status)
     return [
@@ -79,7 +83,7 @@ def list_stocks(
     if ids is not None:
         q = q.filter(Stock.zone_id.in_(ids))
     if resource:
-        q = q.filter(Stock.resource_name.ilike(f"%{resource.lower()}%"))
+        q = q.filter(Stock.resource_name.ilike(f"%{normalize(resource)}%"))
     return [
         {
             "id": s.id,
@@ -108,7 +112,7 @@ def list_incidents(
     if ids is not None:
         q = q.filter(Incident.zone_id.in_(ids))
     if incident_type:
-        q = q.filter(Incident.incident_type.ilike(f"%{incident_type.lower()}%"))
+        q = q.filter(Incident.incident_type.ilike(f"%{normalize(incident_type)}%"))
     return [
         {
             "id": i.id,
@@ -135,7 +139,7 @@ def list_indicators(
     if ids is not None:
         q = q.filter(Indicator.zone_id.in_(ids))
     if name:
-        q = q.filter(Indicator.name.ilike(f"%{name.lower()}%"))
+        q = q.filter(Indicator.name.ilike(f"%{normalize(name)}%"))
     return [
         {
             "id": i.id,

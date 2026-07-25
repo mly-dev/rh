@@ -1,0 +1,223 @@
+nom;type;commune;etat_fonctionnel;capacite;unite_capacite;latitude;longitude
+École primaire Diffa 1;école primaire;Diffa;partiel;289;élèves;13.2986;12.6363
+Centre de santé Diffa 1;centre de santé;Diffa;partiel;1447;consultations/mois;13.3398;12.5696
+Centre de santé Diffa 2;centre de santé;Diffa;fonctionnel;1478;consultations/mois;13.2719;12.6032
+Centre de santé Diffa 3;centre de santé;Diffa;partiel;1006;consultations/mois;13.3552;12.6147
+Point d'eau Diffa 1;point d'eau;Diffa;fonctionnel;1839;personnes desservies;13.2758;12.5707
+École primaire N'Guigmi 1;école primaire;N'Guigmi;partiel;165;élèves;14.2096;13.1112
+Centre de santé N'Guigmi 1;centre de santé;N'Guigmi;fonctionnel;971;consultations/mois;14.2597;13.1107
+Centre de santé N'Guigmi 2;centre de santé;N'Guigmi;fonctionnel;325;consultations/mois;14.2064;13.1179
+Point d'eau N'Guigmi 1;point d'eau;N'Guigmi;non fonctionnel;722;personnes desservies;14.2296;13.1489
+École primaire Maïné-Soroa 1;école primaire;Maïné-Soroa;fonctionnel;148;élèves;13.2254;11.995
+École primaire Maïné-Soroa 2;école primaire;Maïné-Soroa;fonctionnel;269;élèves;13.2445;11.9757
+École primaire Maïné-Soroa 3;école primaire;Maïné-Soroa;fonctionnel;164;élèves;13.2129;12.0001
+Centre de santé Maïné-Soroa 1;centre de santé;Maïné-Soroa;fonctionnel;953;consultations/mois;13.2381;11.935
+Point d'eau Maïné-Soroa 1;point d'eau;Maïné-Soroa;non fonctionnel;764;personnes desservies;13.1786;11.9904
+Point d'eau Maïné-Soroa 2;point d'eau;Maïné-Soroa;fonctionnel;2077;personnes desservies;13.1897;12.0199
+Point d'eau Maïné-Soroa 3;point d'eau;Maïné-Soroa;fonctionnel;1766;personnes desservies;13.1641;12.0267
+École primaire Bosso 1;école primaire;Bosso;fonctionnel;393;élèves;13.7145;13.3374
+Centre de santé Bosso 1;centre de santé;Bosso;partiel;1402;consultations/mois;13.6609;13.3035
+Centre de santé Bosso 2;centre de santé;Bosso;fonctionnel;458;consultations/mois;13.6538;13.2503
+Point d'eau Bosso 1;point d'eau;Bosso;fonctionnel;785;personnes desservies;13.6517;13.3273
+Point d'eau Bosso 2;point d'eau;Bosso;partiel;1692;personnes desservies;13.7217;13.2998
+Point d'eau Bosso 3;point d'eau;Bosso;fonctionnel;680;personnes desservies;13.7357;13.2886
+École primaire Ouallam 1;école primaire;Ouallam;partiel;199;élèves;14.2906;2.1337
+École primaire Ouallam 2;école primaire;Ouallam;fonctionnel;404;élèves;14.3385;2.0976
+École primaire Ouallam 3;école primaire;Ouallam;fonctionnel;303;élèves;14.3286;2.1312
+Centre de santé Ouallam 1;centre de santé;Ouallam;fonctionnel;304;consultations/mois;14.2752;2.0938
+Centre de santé Ouallam 2;centre de santé;Ouallam;fonctionnel;907;consultations/mois;14.337;2.1359
+Point d'eau Ouallam 1;point d'eau;Ouallam;partiel;1221;personnes desservies;14.3477;2.138
+École primaire Téra 1;école primaire;Téra;fonctionnel;112;élèves;14.0058;0.7061
+Centre de santé Téra 1;centre de santé;Téra;non fonctionnel;1235;consultations/mois;14.0461;0.7847
+Centre de santé Téra 2;centre de santé;Téra;fonctionnel;649;consultations/mois;14.0551;0.7579
+Centre de santé Téra 3;centre de santé;Téra;fonctionnel;710;consultations/mois;13.973;0.7764
+Point d'eau Téra 1;point d'eau;Téra;partiel;1123;personnes desservies;13.9708;0.722
+École primaire Abala 1;école primaire;Abala;partiel;159;élèves;14.9225;3.3815
+École primaire Abala 2;école primaire;Abala;fonctionnel;376;élèves;14.9128;3.4061
+Centre de santé Abala 1;centre de santé;Abala;fonctionnel;289;consultations/mois;14.8951;3.4043
+Centre de santé Abala 2;centre de santé;Abala;fonctionnel;350;consultations/mois;14.8891;3.4279
+Centre de santé Abala 3;centre de santé;Abala;fonctionnel;657;consultations/mois;14.9282;3.414
+Point d'eau Abala 1;point d'eau;Abala;fonctionnel;1471;personnes desservies;14.953;3.4275
+École primaire Banibangou 1;école primaire;Banibangou;partiel;600;élèves;15.0468;2.6799
+École primaire Banibangou 2;école primaire;Banibangou;non fonctionnel;349;élèves;15.0244;2.7412
+École primaire Banibangou 3;école primaire;Banibangou;partiel;365;élèves;15.0645;2.711
+Centre de santé Banibangou 1;centre de santé;Banibangou;fonctionnel;1441;consultations/mois;14.987;2.7114
+Centre de santé Banibangou 2;centre de santé;Banibangou;fonctionnel;673;consultations/mois;15.0546;2.7146
+Centre de santé Banibangou 3;centre de santé;Banibangou;non fonctionnel;323;consultations/mois;14.9988;2.6697
+Point d'eau Banibangou 1;point d'eau;Banibangou;partiel;1517;personnes desservies;14.997;2.7498
+Point d'eau Banibangou 2;point d'eau;Banibangou;fonctionnel;2342;personnes desservies;14.9864;2.6958
+École primaire Ayérou 1;école primaire;Ayérou;fonctionnel;286;élèves;14.6914;0.9021
+Centre de santé Ayérou 1;centre de santé;Ayérou;partiel;868;consultations/mois;14.7583;0.9398
+Point d'eau Ayérou 1;point d'eau;Ayérou;partiel;1046;personnes desservies;14.7636;0.8911
+Point d'eau Ayérou 2;point d'eau;Ayérou;fonctionnel;1502;personnes desservies;14.7174;0.9695
+École primaire Dakoro 1;école primaire;Dakoro;fonctionnel;553;élèves;14.5237;6.8148
+École primaire Dakoro 2;école primaire;Dakoro;fonctionnel;191;élèves;14.4731;6.7356
+École primaire Dakoro 3;école primaire;Dakoro;non fonctionnel;466;élèves;14.5288;6.7842
+Centre de santé Dakoro 1;centre de santé;Dakoro;partiel;995;consultations/mois;14.5507;6.7461
+Centre de santé Dakoro 2;centre de santé;Dakoro;fonctionnel;417;consultations/mois;14.5514;6.7386
+Centre de santé Dakoro 3;centre de santé;Dakoro;fonctionnel;411;consultations/mois;14.5442;6.7715
+Point d'eau Dakoro 1;point d'eau;Dakoro;fonctionnel;691;personnes desservies;14.4908;6.7957
+Point d'eau Dakoro 2;point d'eau;Dakoro;partiel;510;personnes desservies;14.4754;6.7893
+École primaire Guidan Roumdji 1;école primaire;Guidan Roumdji;non fonctionnel;341;élèves;13.6676;6.7132
+École primaire Guidan Roumdji 2;école primaire;Guidan Roumdji;fonctionnel;445;élèves;13.6643;6.7454
+Centre de santé Guidan Roumdji 1;centre de santé;Guidan Roumdji;fonctionnel;420;consultations/mois;13.6587;6.7318
+Centre de santé Guidan Roumdji 2;centre de santé;Guidan Roumdji;fonctionnel;1313;consultations/mois;13.6767;6.6706
+Centre de santé Guidan Roumdji 3;centre de santé;Guidan Roumdji;fonctionnel;934;consultations/mois;13.6526;6.6647
+Point d'eau Guidan Roumdji 1;point d'eau;Guidan Roumdji;fonctionnel;662;personnes desservies;13.6182;6.6831
+École primaire Madarounfa 1;école primaire;Madarounfa;fonctionnel;204;élèves;13.3435;7.1285
+École primaire Madarounfa 2;école primaire;Madarounfa;partiel;130;élèves;13.2925;7.1223
+École primaire Madarounfa 3;école primaire;Madarounfa;fonctionnel;557;élèves;13.2611;7.1798
+Centre de santé Madarounfa 1;centre de santé;Madarounfa;fonctionnel;287;consultations/mois;13.3528;7.1714
+Point d'eau Madarounfa 1;point d'eau;Madarounfa;fonctionnel;408;personnes desservies;13.2639;7.1211
+Point d'eau Madarounfa 2;point d'eau;Madarounfa;fonctionnel;1361;personnes desservies;13.2672;7.1974
+École primaire Agadez 1;école primaire;Agadez;fonctionnel;420;élèves;16.9598;7.9586
+École primaire Agadez 2;école primaire;Agadez;partiel;584;élèves;16.9912;7.9891
+Centre de santé Agadez 1;centre de santé;Agadez;fonctionnel;1141;consultations/mois;16.9906;7.9806
+Centre de santé Agadez 2;centre de santé;Agadez;partiel;1094;consultations/mois;16.9573;8.0138
+Centre de santé Agadez 3;centre de santé;Agadez;fonctionnel;1270;consultations/mois;16.9836;8.0311
+Point d'eau Agadez 1;point d'eau;Agadez;fonctionnel;760;personnes desservies;16.964;8.0304
+École primaire Arlit 1;école primaire;Arlit;fonctionnel;110;élèves;18.7344;7.3862
+Centre de santé Arlit 1;centre de santé;Arlit;non fonctionnel;1273;consultations/mois;18.7723;7.4368
+Centre de santé Arlit 2;centre de santé;Arlit;fonctionnel;695;consultations/mois;18.7295;7.3896
+Centre de santé Arlit 3;centre de santé;Arlit;fonctionnel;464;consultations/mois;18.7213;7.3502
+Point d'eau Arlit 1;point d'eau;Arlit;fonctionnel;2071;personnes desservies;18.7814;7.3999
+École primaire Dosso 1;école primaire;Dosso;fonctionnel;385;élèves;13.068;3.1602
+Centre de santé Dosso 1;centre de santé;Dosso;fonctionnel;931;consultations/mois;13.0924;3.221
+Centre de santé Dosso 2;centre de santé;Dosso;fonctionnel;779;consultations/mois;13.07;3.1978
+Centre de santé Dosso 3;centre de santé;Dosso;partiel;381;consultations/mois;13.0666;3.1943
+Point d'eau Dosso 1;point d'eau;Dosso;partiel;1409;personnes desservies;13.0613;3.1459
+École primaire Gaya 1;école primaire;Gaya;fonctionnel;282;élèves;11.9245;3.4539
+École primaire Gaya 2;école primaire;Gaya;partiel;254;élèves;11.8851;3.4032
+Centre de santé Gaya 1;centre de santé;Gaya;fonctionnel;643;consultations/mois;11.9155;3.4081
+Centre de santé Gaya 2;centre de santé;Gaya;fonctionnel;1367;consultations/mois;11.8942;3.4416
+Point d'eau Gaya 1;point d'eau;Gaya;fonctionnel;2361;personnes desservies;11.8682;3.411
+Point d'eau Gaya 2;point d'eau;Gaya;partiel;2038;personnes desservies;11.9361;3.4896
+École primaire Dogondoutchi 1;école primaire;Dogondoutchi;fonctionnel;232;élèves;13.6379;4.0022
+École primaire Dogondoutchi 2;école primaire;Dogondoutchi;fonctionnel;264;élèves;13.6394;4.0207
+Centre de santé Dogondoutchi 1;centre de santé;Dogondoutchi;non fonctionnel;1246;consultations/mois;13.6008;4.0751
+Centre de santé Dogondoutchi 2;centre de santé;Dogondoutchi;partiel;727;consultations/mois;13.6606;4.0554
+Point d'eau Dogondoutchi 1;point d'eau;Dogondoutchi;partiel;444;personnes desservies;13.6697;4.0187
+Point d'eau Dogondoutchi 2;point d'eau;Dogondoutchi;fonctionnel;1491;personnes desservies;13.5921;4.0566
+Point d'eau Dogondoutchi 3;point d'eau;Dogondoutchi;fonctionnel;935;personnes desservies;13.609;4.015
+École primaire Birni N'Konni 1;école primaire;Birni N'Konni;partiel;396;élèves;13.8099;5.244
+École primaire Birni N'Konni 2;école primaire;Birni N'Konni;fonctionnel;384;élèves;13.7508;5.2906
+École primaire Birni N'Konni 3;école primaire;Birni N'Konni;fonctionnel;389;élèves;13.7813;5.2614
+Centre de santé Birni N'Konni 1;centre de santé;Birni N'Konni;fonctionnel;445;consultations/mois;13.8374;5.2061
+Centre de santé Birni N'Konni 2;centre de santé;Birni N'Konni;fonctionnel;502;consultations/mois;13.7952;5.2746
+Centre de santé Birni N'Konni 3;centre de santé;Birni N'Konni;fonctionnel;745;consultations/mois;13.8154;5.2029
+Point d'eau Birni N'Konni 1;point d'eau;Birni N'Konni;non fonctionnel;488;personnes desservies;13.7672;5.2441
+Point d'eau Birni N'Konni 2;point d'eau;Birni N'Konni;fonctionnel;854;personnes desservies;13.8434;5.2092
+École primaire Tahoua 1;école primaire;Tahoua;fonctionnel;290;élèves;14.9222;5.2459
+École primaire Tahoua 2;école primaire;Tahoua;fonctionnel;442;élèves;14.9016;5.2774
+École primaire Tahoua 3;école primaire;Tahoua;fonctionnel;178;élèves;14.9327;5.2691
+Centre de santé Tahoua 1;centre de santé;Tahoua;fonctionnel;325;consultations/mois;14.8886;5.2385
+Point d'eau Tahoua 1;point d'eau;Tahoua;fonctionnel;1591;personnes desservies;14.855;5.3094
+Point d'eau Tahoua 2;point d'eau;Tahoua;fonctionnel;914;personnes desservies;14.9238;5.2797
+École primaire Madaoua 1;école primaire;Madaoua;fonctionnel;147;élèves;14.1197;5.9996
+Centre de santé Madaoua 1;centre de santé;Madaoua;fonctionnel;981;consultations/mois;14.0847;6.0045
+Centre de santé Madaoua 2;centre de santé;Madaoua;fonctionnel;695;consultations/mois;14.0634;5.9396
+Centre de santé Madaoua 3;centre de santé;Madaoua;non fonctionnel;970;consultations/mois;14.0499;5.9651
+Point d'eau Madaoua 1;point d'eau;Madaoua;fonctionnel;2297;personnes desservies;14.0529;5.9339
+Point d'eau Madaoua 2;point d'eau;Madaoua;fonctionnel;2274;personnes desservies;14.1188;5.9387
+École primaire Maradi 1;école primaire;Maradi;fonctionnel;248;élèves;13.4828;7.0877
+École primaire Maradi 2;école primaire;Maradi;fonctionnel;299;élèves;13.549;7.0711
+École primaire Maradi 3;école primaire;Maradi;fonctionnel;567;élèves;13.5084;7.0539
+Centre de santé Maradi 1;centre de santé;Maradi;fonctionnel;687;consultations/mois;13.4532;7.0899
+Point d'eau Maradi 1;point d'eau;Maradi;partiel;1727;personnes desservies;13.4632;7.0558
+Point d'eau Maradi 2;point d'eau;Maradi;fonctionnel;1429;personnes desservies;13.4582;7.1025
+Point d'eau Maradi 3;point d'eau;Maradi;fonctionnel;1638;personnes desservies;13.5308;7.0953
+École primaire Tessaoua 1;école primaire;Tessaoua;partiel;529;élèves;13.7902;8.0146
+École primaire Tessaoua 2;école primaire;Tessaoua;fonctionnel;436;élèves;13.7553;8.0045
+École primaire Tessaoua 3;école primaire;Tessaoua;partiel;595;élèves;13.7375;8.0345
+Centre de santé Tessaoua 1;centre de santé;Tessaoua;partiel;1160;consultations/mois;13.7241;8.0309
+Centre de santé Tessaoua 2;centre de santé;Tessaoua;fonctionnel;625;consultations/mois;13.7568;7.9488
+Point d'eau Tessaoua 1;point d'eau;Tessaoua;partiel;970;personnes desservies;13.7384;7.9597
+École primaire Zinder 1;école primaire;Zinder;fonctionnel;558;élèves;13.8335;8.9995
+École primaire Zinder 2;école primaire;Zinder;fonctionnel;332;élèves;13.7851;9.0145
+École primaire Zinder 3;école primaire;Zinder;fonctionnel;307;élèves;13.7742;8.9417
+Centre de santé Zinder 1;centre de santé;Zinder;partiel;1318;consultations/mois;13.7671;8.9816
+Centre de santé Zinder 2;centre de santé;Zinder;fonctionnel;1046;consultations/mois;13.7554;8.9855
+Point d'eau Zinder 1;point d'eau;Zinder;non fonctionnel;2121;personnes desservies;13.8386;9.0064
+École primaire Magaria 1;école primaire;Magaria;fonctionnel;230;élèves;12.9539;8.9499
+École primaire Magaria 2;école primaire;Magaria;non fonctionnel;544;élèves;13.0274;8.8983
+Centre de santé Magaria 1;centre de santé;Magaria;non fonctionnel;1445;consultations/mois;12.9977;8.9325
+Centre de santé Magaria 2;centre de santé;Magaria;fonctionnel;935;consultations/mois;12.9785;8.8938
+Centre de santé Magaria 3;centre de santé;Magaria;partiel;1105;consultations/mois;13.0039;8.8972
+Point d'eau Magaria 1;point d'eau;Magaria;fonctionnel;413;personnes desservies;13.0002;8.8614
+Point d'eau Magaria 2;point d'eau;Magaria;fonctionnel;750;personnes desservies;12.9952;8.8602
+Point d'eau Magaria 3;point d'eau;Magaria;partiel;1184;personnes desservies;13.0084;8.9116
+École primaire Mirriah 1;école primaire;Mirriah;fonctionnel;567;élèves;13.7056;9.1959
+École primaire Mirriah 2;école primaire;Mirriah;fonctionnel;190;élèves;13.722;9.1524
+Centre de santé Mirriah 1;centre de santé;Mirriah;fonctionnel;560;consultations/mois;13.7158;9.1966
+Point d'eau Mirriah 1;point d'eau;Mirriah;fonctionnel;2412;personnes desservies;13.6864;9.1935
+Point d'eau Mirriah 2;point d'eau;Mirriah;fonctionnel;595;personnes desservies;13.6613;9.137
+École primaire Tanout 1;école primaire;Tanout;fonctionnel;591;élèves;14.9201;8.8698
+Centre de santé Tanout 1;centre de santé;Tanout;fonctionnel;771;consultations/mois;14.9785;8.8664
+Centre de santé Tanout 2;centre de santé;Tanout;fonctionnel;262;consultations/mois;14.9939;8.9338
+Centre de santé Tanout 3;centre de santé;Tanout;partiel;600;consultations/mois;14.9322;8.8616
+Point d'eau Tanout 1;point d'eau;Tanout;fonctionnel;626;personnes desservies;14.9464;8.8736
+Point d'eau Tanout 2;point d'eau;Tanout;fonctionnel;1172;personnes desservies;14.9696;8.8422
+Point d'eau Tanout 3;point d'eau;Tanout;partiel;436;personnes desservies;14.9476;8.9217
+École primaire Niamey 1;école primaire;Niamey;fonctionnel;430;élèves;13.5548;2.0863
+École primaire Niamey 2;école primaire;Niamey;partiel;261;élèves;13.5207;2.0662
+Centre de santé Niamey 1;centre de santé;Niamey;partiel;447;consultations/mois;13.5532;2.0796
+Point d'eau Niamey 1;point d'eau;Niamey;fonctionnel;1895;personnes desservies;13.4749;2.1372
+Point d'eau Niamey 2;point d'eau;Niamey;fonctionnel;776;personnes desservies;13.4811;2.0624
+Point d'eau Niamey 3;point d'eau;Niamey;fonctionnel;2172;personnes desservies;13.4978;2.134
+École primaire Tillabéri 1;école primaire;Tillabéri;fonctionnel;557;élèves;14.2354;1.4956
+École primaire Tillabéri 2;école primaire;Tillabéri;fonctionnel;259;élèves;14.2284;1.4736
+École primaire Tillabéri 3;école primaire;Tillabéri;fonctionnel;294;élèves;14.1722;1.4061
+Centre de santé Tillabéri 1;centre de santé;Tillabéri;fonctionnel;1495;consultations/mois;14.1827;1.4834
+Centre de santé Tillabéri 2;centre de santé;Tillabéri;partiel;295;consultations/mois;14.1874;1.4972
+Point d'eau Tillabéri 1;point d'eau;Tillabéri;fonctionnel;1075;personnes desservies;14.1873;1.4115
+École primaire Kollo 1;école primaire;Kollo;partiel;261;élèves;13.3168;2.3111
+École primaire Kollo 2;école primaire;Kollo;fonctionnel;356;élèves;13.3049;2.306
+École primaire Kollo 3;école primaire;Kollo;non fonctionnel;294;élèves;13.2782;2.3403
+Centre de santé Kollo 1;centre de santé;Kollo;fonctionnel;809;consultations/mois;13.2978;2.3508
+Centre de santé Kollo 2;centre de santé;Kollo;fonctionnel;942;consultations/mois;13.3315;2.3888
+Centre de santé Kollo 3;centre de santé;Kollo;fonctionnel;1113;consultations/mois;13.298;2.3335
+Point d'eau Kollo 1;point d'eau;Kollo;fonctionnel;2349;personnes desservies;13.3179;2.3392
+École primaire Say 1;école primaire;Say;partiel;427;élèves;13.0852;2.3949
+École primaire Say 2;école primaire;Say;partiel;529;élèves;13.0911;2.3134
+École primaire Say 3;école primaire;Say;partiel;394;élèves;13.1156;2.3822
+Centre de santé Say 1;centre de santé;Say;fonctionnel;1218;consultations/mois;13.0556;2.3101
+Centre de santé Say 2;centre de santé;Say;non fonctionnel;650;consultations/mois;13.1478;2.3445
+Centre de santé Say 3;centre de santé;Say;fonctionnel;849;consultations/mois;13.0715;2.3608
+Point d'eau Say 1;point d'eau;Say;fonctionnel;940;personnes desservies;13.1181;2.391
+École primaire Filingué 1;école primaire;Filingué;non fonctionnel;450;élèves;14.3347;3.2864
+École primaire Filingué 2;école primaire;Filingué;fonctionnel;529;élèves;14.317;3.3423
+Centre de santé Filingué 1;centre de santé;Filingué;fonctionnel;1360;consultations/mois;14.3047;3.2797
+Point d'eau Filingué 1;point d'eau;Filingué;fonctionnel;1142;personnes desservies;14.3083;3.2789
+Point d'eau Filingué 2;point d'eau;Filingué;fonctionnel;717;personnes desservies;14.3715;3.3658
+Point d'eau Filingué 3;point d'eau;Filingué;non fonctionnel;2047;personnes desservies;14.3838;3.3567
+École primaire Gouré 1;école primaire;Gouré;fonctionnel;274;élèves;13.9496;10.3027
+École primaire Gouré 2;école primaire;Gouré;fonctionnel;405;élèves;13.9987;10.2473
+École primaire Gouré 3;école primaire;Gouré;fonctionnel;395;élèves;13.9722;10.2348
+Centre de santé Gouré 1;centre de santé;Gouré;fonctionnel;1281;consultations/mois;13.9739;10.2323
+Point d'eau Gouré 1;point d'eau;Gouré;fonctionnel;759;personnes desservies;13.9759;10.229
+École primaire Mayahi 1;école primaire;Mayahi;fonctionnel;247;élèves;13.9139;7.6673
+Centre de santé Mayahi 1;centre de santé;Mayahi;fonctionnel;638;consultations/mois;13.9282;7.6718
+Centre de santé Mayahi 2;centre de santé;Mayahi;non fonctionnel;747;consultations/mois;13.9186;7.7004
+Centre de santé Mayahi 3;centre de santé;Mayahi;fonctionnel;1486;consultations/mois;13.9986;7.6735
+Point d'eau Mayahi 1;point d'eau;Mayahi;fonctionnel;1710;personnes desservies;13.9645;7.6582
+Point d'eau Mayahi 2;point d'eau;Mayahi;fonctionnel;1933;personnes desservies;13.9376;7.7175
+Point d'eau Mayahi 3;point d'eau;Mayahi;partiel;1437;personnes desservies;13.9376;7.6831
+École primaire Illéla 1;école primaire;Illéla;partiel;280;élèves;14.4197;5.2028
+École primaire Illéla 2;école primaire;Illéla;fonctionnel;547;élèves;14.4145;5.2357
+Centre de santé Illéla 1;centre de santé;Illéla;fonctionnel;1349;consultations/mois;14.4554;5.2486
+Point d'eau Illéla 1;point d'eau;Illéla;non fonctionnel;1696;personnes desservies;14.455;5.1934
+Point d'eau Illéla 2;point d'eau;Illéla;non fonctionnel;1478;personnes desservies;14.4288;5.2325
+Point d'eau Illéla 3;point d'eau;Illéla;non fonctionnel;460;personnes desservies;14.4667;5.2555
+École primaire Kéita 1;école primaire;Kéita;fonctionnel;574;élèves;14.7346;5.7492
+École primaire Kéita 2;école primaire;Kéita;partiel;271;élèves;14.7198;5.733
+Centre de santé Kéita 1;centre de santé;Kéita;fonctionnel;639;consultations/mois;14.782;5.7215
+Centre de santé Kéita 2;centre de santé;Kéita;fonctionnel;325;consultations/mois;14.7002;5.7317
+Point d'eau Kéita 1;point d'eau;Kéita;fonctionnel;2282;personnes desservies;14.7558;5.7364
+Point d'eau Kéita 2;point d'eau;Kéita;fonctionnel;1443;personnes desservies;14.742;5.8136
+Point d'eau Kéita 3;point d'eau;Kéita;fonctionnel;620;personnes desservies;14.7591;5.7273
+École primaire Loga 1;école primaire;Loga;non fonctionnel;131;élèves;13.5804;3.224
+École primaire Loga 2;école primaire;Loga;fonctionnel;320;élèves;13.5887;3.1881
+École primaire Loga 3;école primaire;Loga;fonctionnel;316;élèves;13.644;3.21
+Centre de santé Loga 1;centre de santé;Loga;fonctionnel;895;consultations/mois;13.6286;3.2244
+Point d'eau Loga 1;point d'eau;Loga;fonctionnel;833;personnes desservies;13.569;3.2425
+Point d'eau Loga 2;point d'eau;Loga;fonctionnel;437;personnes desservies;13.5932;3.2529

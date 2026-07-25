@@ -292,7 +292,8 @@ def _build_object(entity, values, zone, site, source_id, props):
     if entity == "site":
         return Site(
             name=values["name"],
-            site_type=str(values["site_type"]).strip().lower(),
+            # types normalisés (minuscules, sans accents) pour un filtrage fiable
+            site_type=normalize(values["site_type"]),
             zone_id=zone.id,
             lat=values.get("lat"),
             lon=values.get("lon"),
@@ -321,7 +322,7 @@ def _build_object(entity, values, zone, site, source_id, props):
             raise ValueError("le nombre d'incidents doit être ≥ 1")
         return Incident(
             zone_id=zone.id,
-            incident_type=str(values["incident_type"]).strip().lower(),
+            incident_type=normalize(values["incident_type"]),
             count=count,
             severity=values.get("severity"),
             period_start=values.get("period_start"),
@@ -331,7 +332,7 @@ def _build_object(entity, values, zone, site, source_id, props):
         )
     if entity == "indicator":
         return Indicator(
-            name=str(values["name"]).strip().lower(),
+            name=normalize(values["name"]),
             value=values["value"],
             unit=values.get("unit"),
             zone_id=zone.id,

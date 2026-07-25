@@ -1,0 +1,20 @@
+nom_site;type_site;commune;etat;capacite_menages;latitude;longitude
+Site de distribution Diffa 1;site de distribution;Diffa;fonctionnel;800;13.2725;12.5875
+Site de distribution N'Guigmi 1;site de distribution;N'Guigmi;fonctionnel;1500;14.2677;13.1492
+Site de distribution Maïné-Soroa 1;site de distribution;Maïné-Soroa;partiel;500;13.163;11.9519
+Site de distribution Bosso 1;site de distribution;Bosso;fonctionnel;800;13.7216;13.3201
+Site de distribution Ouallam 1;site de distribution;Ouallam;fonctionnel;800;14.3289;2.1209
+Site de distribution Ouallam 2;site de distribution;Ouallam;fonctionnel;800;14.3398;2.074
+Site de distribution Téra 1;site de distribution;Téra;fonctionnel;1000;13.9702;0.738
+Site de distribution Téra 2;site de distribution;Téra;fonctionnel;500;14.0204;0.7807
+Site de distribution Abala 1;site de distribution;Abala;partiel;1000;14.8879;3.4093
+Site de distribution Abala 2;site de distribution;Abala;fonctionnel;800;14.9377;3.4505
+Site de distribution Banibangou 1;site de distribution;Banibangou;fonctionnel;1500;15.0785;2.7355
+Site de distribution Banibangou 2;site de distribution;Banibangou;fonctionnel;800;15.0078;2.7136
+Site de distribution Ayérou 1;site de distribution;Ayérou;fonctionnel;800;14.7155;0.937
+Site de distribution Ayérou 2;site de distribution;Ayérou;fonctionnel;1500;14.7334;0.8945
+Site de distribution Dakoro 1;site de distribution;Dakoro;partiel;800;14.559;6.784
+Site de distribution Dakoro 2;site de distribution;Dakoro;fonctionnel;800;14.5285;6.8043
+Site de distribution Guidan Roumdji 1;site de distribution;Guidan Roumdji;fonctionnel;800;13.6905;6.6901
+Site de distribution Madarounfa 1;site de distribution;Madarounfa;fonctionnel;800;13.2813;7.1599
+Site de distribution Madarounfa 2;site de distribution;Madarounfa;partiel;1000;13.2865;7.1347
